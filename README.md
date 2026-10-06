@@ -3,7 +3,6 @@
 Template oficial **Bot WhatsApp + FastAPI** para [BlueSpark Cloud](https://cloud.bluesparkmz.com).
 
 ## BlueSpark Cloud
-
 1. Cria um serviço **Bot WhatsApp** no teu projeto.
 2. No serviço → **Config** → **Criar repo e enviar código** (ou liga este repo manualmente com GitHub).
 3. Variáveis no painel (não commits `.env`):
